@@ -1,0 +1,21 @@
+.navbar-light .navbar-nav .nav-link {
+    color: black;
+    
+}
+.navbar-light .navbar-nav{
+    
+    justify-content: space-between;
+}
+a{
+    color:black
+}
+
+.active{
+    color:#ebc354;
+    text-decoration:underline;
+}
+.navlink{
+    font-size: larger;
+    /* border-bottom: 0.5px solid white; */
+    margin-right: 1em;
+}
